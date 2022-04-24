@@ -1,3 +1,17 @@
+img {
+  height: 100px;
+}
+#name {
+  color: blue;
+}
+
+#result {
+  color: green;
+}
+
+
+
+
 /* p {
     font-size: 40px;
     color: red;
@@ -32,13 +46,3 @@ li {
   color: blue;
   font-weight: bold;
   text-align: center;} */
-img {
-    height: 100px;
-  }
-#name {
-    color: blue;
-  }
-  
-#result {
-    color: green;
-  }
